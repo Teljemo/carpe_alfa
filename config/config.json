@@ -1,0 +1,11 @@
+{
+    "local_data_path": "C:/Users/Public/CarpeAlfa/time_tracking_data.xlsx",
+    "shared_folder": "C:/Users/Public/CarpeAlfa/delad",
+    "backup_folder": "C:/Users/Public/CarpeAlfa/Backups",
+    "articles_file": "articles.xlsx",
+    "operations_file": "operations.xlsx",
+    "navision_check_interval": 10,
+    "disk_check_list": ["D:", "E:", "F:"],
+    "backup_time_format": "%Y-%m-%d_%H-%M-%S",
+    "backup_date_format": "%Y-%m-%d"
+}

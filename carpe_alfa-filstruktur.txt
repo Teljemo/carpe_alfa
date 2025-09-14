@@ -1,0 +1,18 @@
+carpe_alfa/
+│
+├─ main.py
+├─ config/
+│   ├─ settings.py
+│   └─ data_storage.py
+├─ gui/
+│   ├─ main_window.py
+│   └─ widgets.py
+├─ tasks/
+│   ├─ task_manager.py
+│   └─ task_utils.py
+└─ utils/
+    ├─ timers.py
+    ├─ file_helpers.py
+    ├─ excel_helpers.py
+    └─ backup_manager.py
+
