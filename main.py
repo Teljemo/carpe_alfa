@@ -1,32 +1,24 @@
+# main.py
 import tkinter as tk
-from config.settings import config
-from gui.main_window import MainWindow
-from utils.backup_manager import BackupManager
+from app.ui import build_ui
+from app.utils import load_config
+
 
 def main():
+    # Ladda config
+    config = load_config("config.json")
+
+    # Skapa huvudfönstret
     root = tk.Tk()
-    root.title("Carpe Alfa")
+    root.title("Carpe Tempus")
+    root.geometry(config.get("window_geometry", "1150x700"))
 
-    # Starta backup-manager
-    backup_manager = BackupManager(interval_seconds=3600)  # realtidskopiering varje timme
+    # Bygg hela UI:t (layout + komponenter)
+    build_ui(root, config)
 
-    app = MainWindow(root, config)
-
-    def on_close():
-        # Stoppa bakgrundstrådar
-        app.status_monitor.stop()
-        app.app_timer_label.stop()
-        app.access_timer_label.stop()
-        backup_manager.stop()
-
-        # Kör dagliga backup
-        backup_manager.daily_backup_local()
-        backup_manager.daily_backup_articles()
-
-        root.destroy()
-
-    root.protocol("WM_DELETE_WINDOW", on_close)
+    # Starta appen
     root.mainloop()
+
 
 if __name__ == "__main__":
     main()

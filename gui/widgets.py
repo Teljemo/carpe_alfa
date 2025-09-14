@@ -4,7 +4,7 @@ from threading import Thread
 import time
 
 class StatusLamp(tk.Label):
-    """En LED-lampa som ändrar färg beroende på status"""
+    """LED-lampa som ändrar färg beroende på status"""
     def __init__(self, master, text="", **kwargs):
         super().__init__(master, text=text, width=2, **kwargs)
         self.status = False
@@ -39,17 +39,19 @@ class TimerLabel(tk.Label):
     def stop(self):
         self._running = False
 
-class TaskButtonFrame(tk.Frame):
-    """Frame med start, pause och stop-knappar för en task"""
+class TaskRow(tk.Frame):
+    """En rad i task-listan: namn + start/pause/stop-knappar"""
     def __init__(self, master, task_name, manager, **kwargs):
         super().__init__(master, **kwargs)
         self.task_name = task_name
         self.manager = manager
 
-        self.start_btn = ttk.Button(self, text="Start", command=self.start_task)
-        self.pause_btn = ttk.Button(self, text="Pause", command=self.pause_task)
-        self.stop_btn = ttk.Button(self, text="Stop", command=self.stop_task)
+        self.name_label = tk.Label(self, text=task_name, width=20, anchor="w")
+        self.start_btn = ttk.Button(self, text="Start", width=6, command=self.start_task)
+        self.pause_btn = ttk.Button(self, text="Pause", width=6, command=self.pause_task)
+        self.stop_btn = ttk.Button(self, text="Stop", width=6, command=self.stop_task)
 
+        self.name_label.pack(side=tk.LEFT, padx=(2,5))
         self.start_btn.pack(side=tk.LEFT, padx=2)
         self.pause_btn.pack(side=tk.LEFT, padx=2)
         self.stop_btn.pack(side=tk.LEFT, padx=2)
