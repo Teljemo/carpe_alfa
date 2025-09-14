@@ -1,0 +1,29 @@
+{
+    "sharepoint_sync_path": "E:\\Erusophios\\programming\\python code\\coding\\dummy-shared-folder\\time_tracking",
+    "excel_file": "time_tracking_data.xlsx",
+    "running_tasks_file": "running_tasks.json",
+    "last_backup_file": "last_backup.txt",
+    "articles_file": "articles.xlsx",
+    "articles_lock_file": ".articles.lock",
+    "operations_file": "operations.xlsx",
+    "operations_lock_file": ".operations.lock",
+    "temp_copy_path": "E:\\Erusophios\\programming\\python code\\coding\\Go-Stopp-Git\\temp\\time_tracking_copies",
+    "daily_backup_path": "E:\\Erusophios\\programming\\python code\\coding\\dummy-shared-folder\\time_tracking\\save",
+    "made_by_link": "www.emanuel.teljemo.se",
+    "update_version_file": "E:\\Erusophios\\programming\\python code\\coding\\dummy-shared-folder\\time_tracking\\version.json",
+    "deviation_codes": [
+        "Väntetid",
+        "Maskinfel",
+        "Materialbrist",
+        "Övrigt"
+    ],
+    "extra_operators": [
+        0,
+        1,
+        2,
+        3
+    ],
+    "version_info": "https://raw.githubusercontent.com/Erusophios/Go-Stopp-Git/main/version.json",
+    "update_url": "https://raw.githubusercontent.com/Erusophios/Go-Stopp-Git/main/carpe_tempus.py",
+    "app_version": "1.01"
+}

@@ -1,0 +1,25 @@
+## MAPP OCH FILSTRUKTUR VID DELNING
+─ Project\
+   ├─ main.py
+   ├─ config_manager.py
+   ├─ data_manager.py
+   ├─ ui_manager.py  
+   ├─ backup_manager.py
+   ├─ system_monitor.py
+   ├─ utils.py  
+   ├─ config.json
+   ├─ last_backups.txt
+   ├─ requirements.txt
+   ├─ running_tasks.json
+   ├─ saxklocka.ico
+   ├─ time_tracker_log.txt
+   ├─ time_tracker_data.xlsx
+   └─ venv\
+
+─ Delad mapp\
+   ├─ articles.xlsx
+   ├─ operations.xlsx
+   ├─ time_tracking_data_user_YYYY-MM-DD_HH-MM-SS.xlsx # Backup exempel av en användares time_tracking_data fil. Alla sparas här regelbundet.
+   ├─ version.json
+   └─ save\
+      └─ time_tracking_data_user_YYYY-MM-DD.xlsx # Backup exempel på en daglig backup för en användare. Alla användares data får en daglig backup.

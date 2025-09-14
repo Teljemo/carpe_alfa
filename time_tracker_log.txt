@@ -1,0 +1,421 @@
+2025-08-30 21:43:35,666 - INFO - Created new Excel file: e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-30 21:43:35,688 - INFO - Loaded 0 articles from C:\Users\telje\Mercado Medic\Mercado Medic - MPAB\Shared Resources\data_sync\time_tracking\articles.xlsx
+2025-08-30 21:43:35,704 - INFO - Loaded 0 operations from C:\Users\telje\Mercado Medic\Mercado Medic - MPAB\Shared Resources\data_sync\time_tracking\operations.xlsx
+2025-08-30 21:44:26,058 - INFO - Loaded 0 articles from C:\Users\telje\Mercado Medic\Mercado Medic - MPAB\Shared Resources\data_sync\time_tracking\articles.xlsx
+2025-08-30 21:44:27,941 - INFO - Loaded 0 articles from C:\Users\telje\Mercado Medic\Mercado Medic - MPAB\Shared Resources\data_sync\time_tracking\articles.xlsx
+2025-08-30 21:44:29,276 - INFO - Loaded 0 articles from C:\Users\telje\Mercado Medic\Mercado Medic - MPAB\Shared Resources\data_sync\time_tracking\articles.xlsx
+2025-08-30 21:44:29,456 - INFO - Loaded 0 articles from C:\Users\telje\Mercado Medic\Mercado Medic - MPAB\Shared Resources\data_sync\time_tracking\articles.xlsx
+2025-08-30 21:44:29,636 - INFO - Loaded 0 articles from C:\Users\telje\Mercado Medic\Mercado Medic - MPAB\Shared Resources\data_sync\time_tracking\articles.xlsx
+2025-08-30 21:56:46,116 - WARNING - Articles file locked: C:\Users\telje\Mercado Medic\Mercado Medic - MPAB\Shared Resources\data_sync\time_tracking\.articles.lock. Waiting...
+2025-08-30 21:56:51,116 - WARNING - Articles file locked: C:\Users\telje\Mercado Medic\Mercado Medic - MPAB\Shared Resources\data_sync\time_tracking\.articles.lock. Waiting...
+2025-08-30 21:56:56,117 - WARNING - Articles file locked: C:\Users\telje\Mercado Medic\Mercado Medic - MPAB\Shared Resources\data_sync\time_tracking\.articles.lock. Waiting...
+2025-08-30 21:57:01,137 - INFO - Fallback: Saved articles to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\temp/time_tracking_copies\articles.xlsx
+2025-08-30 21:58:34,388 - INFO - Saved running tasks to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-30 22:00:41,893 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-30 22:00:41,895 - INFO - Copied data to C:\Users\telje\Mercado Medic\Mercado Medic - MPAB\Shared Resources\data_sync\time_tracking\time_tracking_data_telje_2025-08-30_22-00-41.xlsx
+2025-08-30 22:00:41,896 - INFO - Removed old copy: time_tracking_data_telje_2025-08-28_16-28-14.xlsx
+2025-08-30 22:01:19,035 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-30 22:01:19,036 - INFO - Copied data to C:\Users\telje\Mercado Medic\Mercado Medic - MPAB\Shared Resources\data_sync\time_tracking\time_tracking_data_telje_2025-08-30_22-01-19.xlsx
+2025-08-30 22:01:19,036 - INFO - Removed old copy: time_tracking_data_telje_2025-08-28_20-23-38.xlsx
+2025-08-30 22:01:19,037 - INFO - Saved running tasks to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-30 22:03:11,765 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-30 22:03:11,766 - INFO - Copied data to C:\Users\telje\Mercado Medic\Mercado Medic - MPAB\Shared Resources\data_sync\time_tracking\time_tracking_data_telje_2025-08-30_22-03-11.xlsx
+2025-08-30 22:03:11,766 - INFO - Removed old copy: time_tracking_data_telje_2025-08-28_20-28-14.xlsx
+2025-08-30 22:03:11,769 - INFO - Saved running tasks to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-30 22:04:11,771 - INFO - Removed lock file: C:\Users\telje\Mercado Medic\Mercado Medic - MPAB\Shared Resources\data_sync\time_tracking\.articles.lock
+2025-08-30 22:04:11,771 - INFO - Removed lock file: C:\Users\telje\Mercado Medic\Mercado Medic - MPAB\Shared Resources\data_sync\time_tracking\.operations.lock
+2025-08-30 22:04:11,805 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-30 22:04:11,806 - INFO - Copied data to C:\Users\telje\Mercado Medic\Mercado Medic - MPAB\Shared Resources\data_sync\time_tracking\time_tracking_data_telje_2025-08-30_22-04-11.xlsx
+2025-08-30 22:04:11,807 - INFO - Removed old copy: time_tracking_data_telje_2025-08-28_20-47-55.xlsx
+2025-08-30 22:04:11,814 - INFO - Saved articles to C:\Users\telje\Mercado Medic\Mercado Medic - MPAB\Shared Resources\data_sync\time_tracking\articles.xlsx
+2025-08-30 22:04:11,828 - INFO - Saved operations to C:\Users\telje\Mercado Medic\Mercado Medic - MPAB\Shared Resources\data_sync\time_tracking\operations.xlsx
+2025-08-30 22:04:11,830 - INFO - Daily backup created: C:\Users\telje\AppData\Roaming\BorjaStoppa\time_tracking_data_daglig_backup_2025-08-30.xlsx
+2025-08-30 22:06:48,206 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 5 rows
+2025-08-30 22:06:48,275 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-30 22:06:48,281 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-30 22:06:48,283 - INFO - Loaded 0 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-30 22:08:37,190 - INFO - Saved running tasks to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-30 22:08:41,180 - INFO - Saved running tasks to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-30 22:08:48,882 - INFO - Saved running tasks to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-30 22:09:06,187 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-30 22:09:06,188 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-08-30_22-09-06.xlsx
+2025-08-30 22:09:06,189 - INFO - Saved running tasks to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-30 22:13:05,258 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-30 22:13:05,259 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-08-30_22-13-05.xlsx
+2025-08-30 22:13:05,282 - INFO - Saved running tasks to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-30 22:13:22,408 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-30 22:13:22,408 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-08-30_22-13-22.xlsx
+2025-08-30 22:14:45,289 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-30 22:14:45,290 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-08-30_22-14-45.xlsx
+2025-08-30 22:14:45,378 - INFO - Saved articles to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-30 22:14:45,392 - INFO - Saved operations to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-30 22:16:11,525 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 10 rows
+2025-08-30 22:16:11,610 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-30 22:16:11,626 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-30 22:16:11,630 - INFO - Loaded 2 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-30 22:16:45,841 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-30 22:16:45,842 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-08-30_22-16-45.xlsx
+2025-08-30 22:16:45,843 - INFO - Saved running tasks to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-30 22:17:08,089 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-30 22:17:08,090 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-08-30_22-17-08.xlsx
+2025-08-30 22:17:08,091 - INFO - Removed old copy: time_tracking_data_telje_2025-08-30_22-09-06.xlsx
+2025-08-30 22:17:30,346 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-30 22:17:30,347 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-08-30_22-17-30.xlsx
+2025-08-30 22:17:30,348 - INFO - Removed old copy: time_tracking_data_telje_2025-08-30_22-13-05.xlsx
+2025-08-30 22:17:30,369 - INFO - Saved running tasks to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-30 22:17:45,305 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-30 22:17:45,306 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-08-30_22-17-45.xlsx
+2025-08-30 22:17:45,306 - INFO - Removed old copy: time_tracking_data_telje_2025-08-30_22-13-22.xlsx
+2025-08-30 22:17:45,389 - INFO - Saved articles to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-30 22:17:45,396 - INFO - Saved operations to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 07:25:01,141 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 15 rows
+2025-08-31 07:25:01,248 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-31 07:25:01,264 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 07:25:01,266 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-31 07:25:22,723 - INFO - Saved running tasks to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-31 07:26:32,733 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-31 07:26:32,734 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-08-31_07-26-32.xlsx
+2025-08-31 07:26:32,734 - INFO - Removed old copy: time_tracking_data_telje_2025-08-30_22-14-45.xlsx
+2025-08-31 07:27:07,615 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-31 07:27:07,615 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-08-31_07-27-07.xlsx
+2025-08-31 07:27:07,616 - INFO - Removed old copy: time_tracking_data_telje_2025-08-30_22-16-45.xlsx
+2025-08-31 07:27:07,637 - INFO - Saved running tasks to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-31 07:27:23,440 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-31 07:27:23,441 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-08-31_07-27-23.xlsx
+2025-08-31 07:27:23,441 - INFO - Removed old copy: time_tracking_data_telje_2025-08-30_22-17-08.xlsx
+2025-08-31 07:27:23,526 - INFO - Saved articles to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-31 07:27:23,534 - INFO - Saved operations to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 07:27:23,541 - INFO - Daily backup created: E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\save\time_tracking_data_daglig_backup_2025-08-31.xlsx
+2025-08-31 07:41:44,614 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 19 rows
+2025-08-31 07:41:44,629 - INFO - Loaded 1 articles from C:\Users\telje\Mercado Medic\Mercado Medic - MPAB\Shared Resources\data_sync\time_tracking\articles.xlsx
+2025-08-31 07:41:44,646 - INFO - Loaded 0 operations from C:\Users\telje\Mercado Medic\Mercado Medic - MPAB\Shared Resources\data_sync\time_tracking\operations.xlsx
+2025-08-31 07:41:44,647 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-31 07:42:11,033 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-31 07:42:11,035 - INFO - Copied data to C:\Users\telje\Mercado Medic\Mercado Medic - MPAB\Shared Resources\data_sync\time_tracking\time_tracking_data_telje_2025-08-31_07-42-11.xlsx
+2025-08-31 07:42:11,035 - INFO - Removed old copy: time_tracking_data_telje_2025-08-29_08-41-45.xlsx
+2025-08-31 07:42:11,043 - INFO - Saved articles to C:\Users\telje\Mercado Medic\Mercado Medic - MPAB\Shared Resources\data_sync\time_tracking\articles.xlsx
+2025-08-31 07:42:11,056 - INFO - Saved operations to C:\Users\telje\Mercado Medic\Mercado Medic - MPAB\Shared Resources\data_sync\time_tracking\operations.xlsx
+2025-08-31 10:40:51,601 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 21 rows
+2025-08-31 10:40:51,693 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-31 10:40:51,708 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 10:40:51,710 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-31 10:41:01,752 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-31 10:41:01,753 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-08-31_10-41-01.xlsx
+2025-08-31 10:41:01,754 - INFO - Removed old copy: time_tracking_data_telje_2025-08-30_22-17-30.xlsx
+2025-08-31 10:41:01,838 - INFO - Saved articles to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-31 10:41:01,852 - INFO - Saved operations to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 10:51:30,555 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 23 rows
+2025-08-31 10:51:30,638 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-31 10:51:30,655 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 10:51:30,656 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-31 10:51:49,496 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-31 10:51:49,497 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-08-31_10-51-49.xlsx
+2025-08-31 10:51:49,498 - INFO - Removed old copy: time_tracking_data_telje_2025-08-30_22-17-45.xlsx
+2025-08-31 10:51:49,580 - INFO - Saved articles to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-31 10:51:49,587 - INFO - Saved operations to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 10:51:52,702 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 25 rows
+2025-08-31 10:51:52,786 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-31 10:51:52,802 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 10:51:52,803 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-31 10:52:00,072 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-31 10:52:00,073 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-08-31_10-52-00.xlsx
+2025-08-31 10:52:00,073 - INFO - Removed old copy: time_tracking_data_telje_2025-08-31_07-26-32.xlsx
+2025-08-31 10:52:00,157 - INFO - Saved articles to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-31 10:52:00,164 - INFO - Saved operations to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 10:52:50,975 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 27 rows
+2025-08-31 10:52:51,055 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-31 10:52:51,071 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 10:52:51,072 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-31 10:52:58,624 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-31 10:52:58,625 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-08-31_10-52-58.xlsx
+2025-08-31 10:52:58,626 - INFO - Removed old copy: time_tracking_data_telje_2025-08-31_07-27-07.xlsx
+2025-08-31 10:52:58,714 - INFO - Saved articles to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-31 10:52:58,721 - INFO - Saved operations to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 13:22:57,924 - INFO - Konfigurationsfilen laddad. Made By-länk: www.emanuel.teljemo.se
+2025-08-31 13:31:42,389 - INFO - Konfigurationsfilen laddad. Made By-länk: www.emanuel.teljemo.se
+2025-08-31 13:31:42,390 - INFO - Alla sökvägar tillgängliga.
+2025-08-31 13:31:42,391 - INFO - Daglig backup skapad: E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\save\daily_backup_telje_20250831.xlsx
+2025-08-31 13:31:42,736 - INFO - Artikellista laddad.
+2025-08-31 13:31:42,751 - INFO - Operationslista laddad.
+2025-08-31 13:52:23,923 - INFO - Konfigurationsfilen laddad.
+2025-08-31 13:52:26,174 - ERROR - Kunde inte läsa in artiklar eller operationer: 'Artikel'
+2025-08-31 13:52:26,184 - INFO - Konfigurationsfilen laddad.
+2025-08-31 13:52:26,184 - INFO - Konfigurationsfilen laddad.
+2025-08-31 13:52:26,185 - INFO - Pågående uppgift laddad.
+2025-08-31 13:52:51,980 - WARNING - Old file format detected in e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx. Missing: ['Ställbitar', 'Approved Parts'], Extra: ['Setup Parts', 'Produced Parts']
+2025-08-31 13:52:52,034 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 21 rows
+2025-08-31 13:52:52,134 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-31 13:52:52,141 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 13:52:52,144 - INFO - Loaded running tasks: {'BR101046  (46x43)': {'type': 'setup', 'start_time': 1756641172.1444933, 'last_app_check': 1756618026.9915946, 'last_nav_check': 1756618026.9915946, 'task_app_time': 19.33198571205139, 'task_navision_time': 0, 'operation': '6 - Limning Tyg', 'extra_operators': 3, 'elapsed_time': 0}}
+2025-08-31 13:53:40,302 - INFO - Running tasks saved
+2025-08-31 13:53:41,765 - INFO - Running tasks saved
+2025-08-31 13:54:20,405 - INFO - Konfigurationsfilen laddad.
+2025-08-31 13:54:24,804 - ERROR - Kunde inte läsa in artiklar eller operationer: 'Artikel'
+2025-08-31 13:54:24,811 - INFO - Konfigurationsfilen laddad.
+2025-08-31 13:54:24,811 - INFO - Konfigurationsfilen laddad.
+2025-08-31 13:54:24,811 - INFO - Pågående uppgift laddad.
+2025-08-31 13:57:04,112 - INFO - Konfigurationsfilen laddad.
+2025-08-31 13:57:05,705 - ERROR - Kunde inte läsa in artiklar eller operationer: 'Artikel'
+2025-08-31 13:57:05,713 - INFO - Konfigurationsfilen laddad.
+2025-08-31 13:57:05,713 - INFO - Konfigurationsfilen laddad.
+2025-08-31 13:57:05,714 - INFO - Pågående uppgift laddad.
+2025-08-31 13:57:08,120 - ERROR - Fel vid återställning av pågående uppgift: 'user'
+2025-08-31 13:57:08,120 - INFO - Konfigurationsfilen laddad.
+2025-08-31 13:57:08,121 - INFO - Pågående uppgift raderad.
+2025-08-31 14:00:26,648 - WARNING - Old file format detected in e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx. Missing columns: ['Setup Parts', 'Produced Parts'], Extra columns: ['Ställbitar', 'Ställbitar.1', 'Approved Parts', 'Approved Parts.1']
+2025-08-31 14:00:26,651 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 21 rows
+2025-08-31 14:00:26,787 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-31 14:00:26,796 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 14:00:35,307 - INFO - Saved running tasks to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-31 14:00:42,211 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-31 14:00:42,212 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-08-31_14-00-42.xlsx
+2025-08-31 14:00:42,213 - INFO - Removed old copy: time_tracking_data_telje_2025-08-31_07-27-23.xlsx
+2025-08-31 14:00:42,308 - INFO - Saved articles to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-31 14:00:42,315 - INFO - Saved operations to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 14:00:57,169 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 23 rows
+2025-08-31 14:00:57,255 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-31 14:00:57,272 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 14:00:57,279 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-31 14:01:35,825 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-31 14:01:35,826 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-08-31_14-01-35.xlsx
+2025-08-31 14:01:35,826 - INFO - Removed old copy: time_tracking_data_telje_2025-08-31_10-41-01.xlsx
+2025-08-31 14:01:35,926 - INFO - Saved articles to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-31 14:01:35,933 - INFO - Saved operations to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 14:02:01,337 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 25 rows
+2025-08-31 14:02:01,423 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-31 14:02:01,439 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 14:02:01,440 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-31 14:02:16,897 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-31 14:02:16,898 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-08-31_14-02-16.xlsx
+2025-08-31 14:02:16,899 - INFO - Removed old copy: time_tracking_data_telje_2025-08-31_10-51-49.xlsx
+2025-08-31 14:02:16,999 - INFO - Saved articles to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-31 14:02:17,015 - INFO - Saved operations to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 14:02:38,172 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 27 rows
+2025-08-31 14:02:38,270 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-31 14:02:38,292 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 14:02:38,295 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-31 14:02:45,761 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-31 14:02:45,762 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-08-31_14-02-45.xlsx
+2025-08-31 14:02:45,762 - INFO - Removed old copy: time_tracking_data_telje_2025-08-31_10-52-00.xlsx
+2025-08-31 14:02:45,863 - INFO - Saved articles to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-31 14:02:45,873 - INFO - Saved operations to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 14:03:14,929 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 29 rows
+2025-08-31 14:03:15,018 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-31 14:03:15,033 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 14:03:15,035 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-31 15:06:00,495 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 29 rows
+2025-08-31 15:06:00,598 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-31 15:06:00,605 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 15:06:00,606 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-31 15:06:09,458 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-08-31 15:06:09,459 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-08-31_15-06-09.xlsx
+2025-08-31 15:06:09,460 - INFO - Removed old copy: time_tracking_data_telje_2025-08-31_10-52-58.xlsx
+2025-08-31 15:06:09,578 - INFO - Saved articles to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-31 15:06:09,596 - INFO - Saved operations to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 15:29:05,306 - ERROR - Failed to load articles or operations due to FileNotFoundError.
+2025-08-31 15:29:05,307 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-31 15:29:05,555 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 31 rows
+2025-08-31 15:32:43,718 - ERROR - Failed to load articles or operations due to FileNotFoundError.
+2025-08-31 15:32:43,719 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-08-31 15:32:43,961 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 31 rows
+2025-08-31 20:06:38,258 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 31 rows
+2025-08-31 20:06:38,328 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-08-31 20:06:38,334 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-08-31 20:06:38,336 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-06 08:34:52,051 - ERROR - Failed to check articles file: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-09-06 08:34:52,063 - ERROR - Failed to load operations: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-09-06 08:34:52,077 - ERROR - Failed to load existing data: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-09-06 08:34:52,078 - INFO - Loaded 1 running tasks
+2025-09-06 08:34:52,080 - ERROR - Daily backup failed: 'method_descriptor' object has no attribute 'today'
+2025-09-06 08:35:46,865 - ERROR - Failed to load Task_Data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-09-06 08:38:15,397 - ERROR - Failed to load Task_Data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-09-06 08:39:01,255 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 31 rows
+2025-09-06 08:39:01,346 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-06 08:39:01,352 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-06 08:39:01,355 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-06 08:39:38,263 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-09-06 08:39:38,264 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-09-06_08-39-38.xlsx
+2025-09-06 08:39:38,265 - INFO - Removed old copy: time_tracking_data_telje_2025-08-31_14-00-42.xlsx
+2025-09-06 08:39:38,351 - INFO - Saved articles to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-06 08:39:38,365 - INFO - Saved operations to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-06 08:39:38,367 - INFO - Daily backup created: E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\save\time_tracking_data_daglig_backup_2025-09-06.xlsx
+2025-09-06 08:42:27,527 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 32 rows
+2025-09-06 08:42:27,613 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-06 08:42:27,631 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-06 08:42:27,632 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-06 08:42:46,827 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-09-06 08:42:46,828 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-09-06_08-42-46.xlsx
+2025-09-06 08:42:46,828 - INFO - Removed old copy: time_tracking_data_telje_2025-08-31_14-01-35.xlsx
+2025-09-06 08:42:46,912 - INFO - Saved articles to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-06 08:42:46,926 - INFO - Saved operations to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-06 08:45:52,808 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 34 rows
+2025-09-06 08:45:52,889 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-06 08:45:52,905 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-06 08:45:52,907 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-06 08:45:57,702 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-09-06 08:45:57,703 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-09-06_08-45-57.xlsx
+2025-09-06 08:45:57,704 - INFO - Removed old copy: time_tracking_data_telje_2025-08-31_14-02-16.xlsx
+2025-09-06 08:45:57,790 - INFO - Saved articles to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-06 08:45:57,798 - INFO - Saved operations to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-06 09:08:23,533 - INFO - Loaded 1 running tasks
+2025-09-06 09:08:23,534 - ERROR - Daily backup failed: 'method_descriptor' object has no attribute 'today'
+2025-09-06 09:08:32,087 - INFO - Saved running tasks to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-06 09:37:32,437 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 36 rows
+2025-09-06 09:37:32,523 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-06 09:37:32,533 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-06 09:37:32,535 - INFO - Loaded 2 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-06 09:38:07,468 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 36 rows
+2025-09-06 09:38:07,553 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-06 09:38:07,562 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-06 09:38:07,563 - INFO - Loaded 2 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-06 09:38:31,373 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 36 rows
+2025-09-06 09:38:31,451 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-06 09:38:31,457 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-06 09:38:31,459 - INFO - Loaded 2 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-06 09:38:41,542 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-09-06 09:38:41,543 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-09-06_09-38-41.xlsx
+2025-09-06 09:38:41,544 - INFO - Removed old copy: time_tracking_data_telje_2025-08-31_14-02-45.xlsx
+2025-09-06 09:38:41,630 - INFO - Saved articles to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-06 09:38:41,637 - INFO - Saved operations to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-06 09:48:45,984 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 37 rows
+2025-09-06 09:48:46,067 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-06 09:48:46,084 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-06 09:48:46,086 - INFO - Loaded 2 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-06 09:49:03,881 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-09-06 09:49:03,882 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-09-06_09-49-03.xlsx
+2025-09-06 09:49:03,882 - INFO - Removed old copy: time_tracking_data_telje_2025-08-31_15-06-09.xlsx
+2025-09-06 09:49:03,969 - INFO - Saved articles to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-06 09:49:03,976 - INFO - Saved operations to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 09:36:38,327 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 38 rows
+2025-09-07 09:36:38,411 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-07 09:36:38,425 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 09:36:38,427 - INFO - Loaded 2 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-07 09:40:30,419 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 38 rows
+2025-09-07 09:40:30,490 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-07 09:40:30,497 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 09:40:30,498 - INFO - Loaded 2 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-07 09:47:35,108 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 38 rows
+2025-09-07 09:47:35,181 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-07 09:47:35,191 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 09:47:35,193 - INFO - Loaded 2 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-07 10:13:27,184 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 38 rows
+2025-09-07 10:13:27,256 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-07 10:13:27,262 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 10:13:27,264 - INFO - Loaded 2 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-07 10:13:49,880 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-09-07 10:13:49,881 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-09-07_10-13-49.xlsx
+2025-09-07 10:13:49,882 - INFO - Removed old copy: time_tracking_data_telje_2025-09-06_08-39-38.xlsx
+2025-09-07 10:13:49,967 - INFO - Saved articles to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-07 10:13:49,982 - INFO - Saved operations to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 10:13:49,983 - INFO - Daily backup created: E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\save\time_tracking_data_daglig_backup_2025-09-07.xlsx
+2025-09-07 10:15:11,079 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 39 rows
+2025-09-07 10:15:11,159 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-07 10:15:11,174 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 10:15:11,175 - INFO - Loaded 2 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-07 10:15:50,533 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-09-07 10:15:50,535 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-09-07_10-15-50.xlsx
+2025-09-07 10:15:50,535 - INFO - Removed old copy: time_tracking_data_telje_2025-09-06_08-42-46.xlsx
+2025-09-07 10:15:54,317 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-09-07 10:15:54,318 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-09-07_10-15-54.xlsx
+2025-09-07 10:15:54,319 - INFO - Removed old copy: time_tracking_data_telje_2025-09-06_08-45-57.xlsx
+2025-09-07 10:15:54,405 - INFO - Saved articles to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-07 10:15:54,412 - INFO - Saved operations to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 10:20:46,251 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 41 rows
+2025-09-07 10:20:46,331 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-07 10:20:46,346 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 10:20:46,348 - INFO - Loaded 2 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-07 10:21:06,729 - INFO - Saved running tasks to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-07 10:21:23,192 - INFO - Saved running tasks to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-07 10:21:33,833 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-09-07 10:21:33,834 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-09-07_10-21-33.xlsx
+2025-09-07 10:21:33,834 - INFO - Removed old copy: time_tracking_data_telje_2025-09-06_09-38-41.xlsx
+2025-09-07 10:21:33,858 - INFO - Saved running tasks to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-07 10:21:40,423 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-09-07 10:21:40,423 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-09-07_10-21-40.xlsx
+2025-09-07 10:21:40,424 - INFO - Removed old copy: time_tracking_data_telje_2025-09-06_09-49-03.xlsx
+2025-09-07 10:21:40,448 - INFO - Saved running tasks to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-07 10:21:48,227 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-09-07 10:21:48,228 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-09-07_10-21-48.xlsx
+2025-09-07 10:21:48,228 - INFO - Removed old copy: time_tracking_data_telje_2025-09-07_10-13-49.xlsx
+2025-09-07 10:21:48,316 - INFO - Saved articles to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-07 10:21:48,323 - INFO - Saved operations to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 10:25:34,587 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 44 rows
+2025-09-07 10:25:34,676 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-07 10:25:34,693 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 10:25:34,694 - INFO - Loaded 0 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-07 10:25:38,988 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-09-07 10:25:38,989 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-09-07_10-25-38.xlsx
+2025-09-07 10:25:38,990 - INFO - Removed old copy: time_tracking_data_telje_2025-09-07_10-15-50.xlsx
+2025-09-07 10:25:39,078 - INFO - Saved articles to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-07 10:25:39,086 - INFO - Saved operations to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 10:55:02,258 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 45 rows
+2025-09-07 10:55:02,333 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-07 10:55:02,348 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 10:55:02,350 - INFO - Loaded 0 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-07 10:56:51,359 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-09-07 10:56:51,360 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-09-07_10-56-51.xlsx
+2025-09-07 10:56:51,360 - INFO - Removed old copy: time_tracking_data_telje_2025-09-07_10-15-54.xlsx
+2025-09-07 10:56:51,450 - INFO - Saved articles to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-07 10:56:51,457 - INFO - Saved operations to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 10:56:52,547 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 46 rows
+2025-09-07 10:56:52,631 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-07 10:56:52,646 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 10:56:52,648 - INFO - Loaded 0 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-07 10:58:49,945 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 46 rows
+2025-09-07 10:58:50,013 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-07 10:58:50,019 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 10:58:50,021 - INFO - Loaded 0 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-07 10:58:56,985 - INFO - Saved running tasks to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-07 13:07:52,792 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 46 rows
+2025-09-07 13:07:52,866 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-07 13:07:52,872 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 13:07:52,873 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-07 13:15:15,802 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 46 rows
+2025-09-07 13:15:15,876 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-07 13:15:15,882 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 13:15:15,884 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-07 13:19:22,648 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 46 rows
+2025-09-07 13:19:22,716 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-07 13:19:22,722 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 13:19:22,724 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-07 13:29:17,777 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 46 rows
+2025-09-07 13:29:17,853 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-07 13:29:17,859 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 13:29:17,861 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-07 13:29:49,459 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 46 rows
+2025-09-07 13:29:49,539 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-07 13:29:49,545 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 13:29:49,547 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-07 13:30:06,236 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 46 rows
+2025-09-07 13:30:06,313 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-07 13:30:06,320 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 13:30:06,321 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-07 13:34:53,381 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 46 rows
+2025-09-07 13:34:53,452 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-07 13:34:53,458 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 13:34:53,459 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-07 18:45:40,944 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 46 rows
+2025-09-07 18:45:41,018 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-07 18:45:41,033 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-07 18:45:41,040 - INFO - Loaded 2 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-07 18:45:41,092 - ERROR - Critical error in main: 'SystemMonitor' object has no attribute 'get_app_session_time'
+2025-09-08 17:03:12,855 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 46 rows
+2025-09-08 17:03:12,931 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-08 17:03:12,946 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-08 17:03:12,952 - INFO - Loaded 2 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-08 17:03:13,036 - ERROR - Critical error in main: 'SystemMonitor' object has no attribute 'update_timers'
+2025-09-08 17:07:12,927 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 46 rows
+2025-09-08 17:07:12,994 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-08 17:07:12,998 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-08 17:07:12,999 - INFO - Loaded 2 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-08 17:07:13,379 - ERROR - Critical error in main: 'SystemMonitor' object has no attribute 'data_manager'
+2025-09-14 07:10:57,063 - INFO - Loaded data from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx with 46 rows
+2025-09-14 07:10:57,153 - INFO - Loaded 3455 articles from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-14 07:10:57,175 - INFO - Loaded 9 operations from E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-14 07:10:57,176 - INFO - Loaded 1 running tasks from e:\Erusophios\programming\python code\coding\Go-Stopp-Git\running_tasks.json
+2025-09-14 07:12:08,362 - INFO - Saved data to e:\Erusophios\programming\python code\coding\Go-Stopp-Git\time_tracking_data.xlsx
+2025-09-14 07:12:08,363 - INFO - Copied data to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\time_tracking_data_telje_2025-09-14_07-12-08.xlsx
+2025-09-14 07:12:08,364 - INFO - Removed old copy: time_tracking_data_telje_2025-09-07_10-21-33.xlsx
+2025-09-14 07:12:08,449 - INFO - Saved articles to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\articles.xlsx
+2025-09-14 07:12:08,464 - INFO - Saved operations to E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\operations.xlsx
+2025-09-14 07:12:08,465 - INFO - Daily backup created: E:\Erusophios\programming\python code\coding\dummy-shared-folder\time_tracking\save\time_tracking_data_daglig_backup_2025-09-14.xlsx
