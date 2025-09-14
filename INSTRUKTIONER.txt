@@ -1,0 +1,198 @@
+📑 Komplett beskrivning av Carpe Alfa (Carpe Tempus)
+🎨 Layout (måste bevaras)
+•	Titelrad:
+Carpe Tempus, fönsterstorlek ca 1150x700.
+•	Översta raden:
+o	Label + Entry: Sök artikel:
+o	Label + Entry: Ny artikel:
+o	Knapp: Skapa artikel
+o	Knapp: Uppdatera artiklar
+•	Vänsterpanel:
+o	Rubrik: Tillgängliga artiklar:
+o	Trädvy/lista med artiklar (artikelnummer (storlek)).
+•	Mittenpanel (höger sida):
+o	Rubrik: Välj operation: → Dropdown (operationer från operations.xlsx).
+o	Rubrik: Extra operatörer: → Spinbox (antal operatörer).
+o	Fyra knappar i rad:
+	Blå: Starta ställtid
+	Grön: Starta produktion
+	Röd: Avsluta produktion
+	Orange: Avvikelse
+o	Textfält:
+	Användare: [namn] (Windows-användare).
+	Pågående jobb: ... (artikel, operation, tid).
+	App-sessionstid: ...
+	Navision-sessionstid: ...
+o	Statuslampor:
+	Status: ● (grön/röd) → kollar delad mapp.
+	Åtkomst: ● (grön/röd) → väntar på 3 diskar.
+•	Nedre panel:
+o	Rubrik: Artikeldetaljer:
+o	Tabell (Treeview) med kolumner:
+	Datum
+	Användare
+	Artikel
+	Operation
+	Antal
+	Ställtid
+	Produktionstid
+	Typ av jobb
+	Skrotade
+	Tid/del (min)
+•	Sidfot:
+o	Vänster: © 2025, Emanuel Teljemo, Alla rättigheter förbehållna.
+o	Mitten: Version: 1.0
+o	Höger: Knapp Kontrollera Uppdatering.
+ 
+
+LAYOUT
+Huvudfönster Titelrad: Carpe Tempus
+Överst till vänster: Textfält: "Sök artikel:" (inmatningsfält bredvid texten)
+Överst till höger: Textfält: "Ny artikel:" (inmatningsfält bredvid texten) Knapp: "Skapa artikel" Knapp: "Uppdatera artiklar"
+Vänsterpanel Rubrik: Tillgängliga artiklar: Under rubriken: Lista (vertikal lista med artikelnummer och storlek, t.ex. "BR101046 (46x43)").
+Mittenpanel (övre) Rubrik: Välj operation: Dropdown med operationer (ex. "1 - Tillskärning av Tyg").
+Till höger om dropdown: Rubrik: Extra operatörer: Dropdown med siffror (0–...).
+Under dropdown-menyerna: Fyra stora knappar på rad: Blå: "Starta ställtid" Grön: "Starta produktion" Röd: "Avsluta produktion" Orange: "Avvikelse"
+Under knapparna: Text: "Användare: [namn]" Text: "Pågående jobb: ..." (visar artikel, operation och tid) Text: "App-sessionstid: ..." Text: "Navision-sessionstid: ..."
+Mittenpanel (höger, status) Två statusfält med färgindikatorer: "Status:" (grön prick bredvid) "Åtkomst:" (röd prick bredvid)
+Nedre panel Rubrik: Artikeldetaljer: Tabell med kolumner: Datum Användare Artikel Operation Antal Ställtid Produktionstid Typ av jobb Skrotade Tid/del (min) Tabellen visar rader med data (tidigare jobb).
+Sidfot Vänster: Text: "© 2025, Emanuel Teljemo, Alla rättigheter förbehållna." Mitten: "Version: 1.0" Höger: Knapp: "Kontrollera Uppdatering"
+
+
+
+Layoutdelar i din kod
+I din fil carpe_tempus_1_01.txt börjar själva gränssnittet byggas i sektionen:
+---------------------------------------------------------------------------------
+[HUVUD-UI OCH PROGRAMSTART]
+---------------------------------------------------------------------------------
+Viktiga delar:
+1.	Huvudfönster
+root = tk.Tk() root.title("Carpe Tempus") root.geometry("1150x700")
+2.	Input-rad överst (sök, ny artikel, knappar)
+input_frame = tk.Frame(main_frame) ... tk.Label(input_frame, text="Sök artikel:") tk.Entry(input_frame, textvariable=search_var) tk.Label(input_frame, text="Ny artikel:") tk.Entry(input_frame, textvariable=new_article_var) tk.Button(input_frame, text="Skapa artikel") tk.Button(input_frame, text="Uppdatera artiklar")
+3.	Split-panel (vänster = artiklar, höger = operation + knappar + status)
+split_frame = tk.Frame(main_frame) • Vänster panel article_frame = tk.Frame(split_frame) article_selection_tree = ttk.Treeview(article_selection_frame, columns=("Article",)) • Höger panel right_frame = tk.Frame(split_frame)
+4.	Operation och extra operatörer
+operation_combobox = ttk.Combobox(operation_frame, textvariable=selected_operation) operators_spinbox = ttk.Spinbox(operators_frame, from_=0, to=10, textvariable=selected_operators)
+5.	Knapparna (ställtid, start, stop, avvikelse)
+setup_button = tk.Button(button_frame, text="Starta ställtid", bg="blue", fg="white") start_button = tk.Button(button_frame, text="Starta produktion", bg="green", fg="white") stop_button = tk.Button(button_frame, text="Avsluta produktion", bg="red", fg="black") deviation_button = tk.Button(button_frame, text="Avvikelse", bg="orange", fg="black")
+6.	Status-indikatorer (gröna/röda prickar)
+access_indicator = tk.Label(button_frame, text="●", font=("Arial", 20), fg="red") drive_indicator = tk.Label(button_frame, text="●", font=("Arial", 20), fg="red")
+7.	Pågående jobb-ruta
+running_frame = tk.Frame(right_frame)
+8.	Artikeldetaljer-tabell
+details_tree = ttk.Treeview(main_frame, columns=(...), show="headings")
+9.	Sidfot (info, version, uppdateringsknapp)
+info_frame = tk.Frame(root) made_by_label = tk.Label(info_frame, text="© 2025, Emanuel Teljemo...") tk.Label(info_frame, text=f"Version: {VERSION}")
+
+ 
+
+⚙️ Funktioner & logik (måste bevaras)
+Filhantering
+•	Lokal fil per användare:
+o	time_tracking_data.xlsx → unikt för varje dator/användare.
+o	Endast denna fil används för att läsa in data i appen.
+•	Delade filer:
+o	Vid kopiering till delad mapp döps filen om:
+	time_tracking_data_user_2025-09-07_10-21-40.xlsx (vanlig kopia).
+	time_tracking_data_user_2025-08-31.xlsx (daglig backup, datum i filnamnet).
+o	articles.xlsx delas av alla användare.
+	Appen ska kunna lägga till nya artiklar här.
+	Ska få daglig backup på samma sätt som tidsfilerna.
+o	operations.xlsx delas av alla användare (endast läsas in).
+•	Konfiguration:
+o	Alla sökvägar och variabler som kan ändras ska ligga i config.json.
+o	Exempel: delad mapp, backup-mapp, filnamn, version.
+Status & timers
+•	Statuslampor:
+o	Status: → kollar om delad mapp är åtkomlig.
+o	Åtkomst: → väntar på att tre specifika diskar ska dyka upp (via Windows).
+•	Timers:
+o	Tid från att appen startas tills "Åtkomst" blir OK.
+o	Appens sessionstid.
+o	Navision-processens tid (aktiv/inaktiv).
+Jobb & interaktion
+•	Artiklar:
+o	Sökning i listan.
+o	Skapa ny artikel via inputfält.
+o	Uppdatera artiklar (refresh från articles.xlsx).
+•	Operationer:
+o	Dropdown laddas från operations.xlsx.
+o	Extra operatörer kan väljas via Spinbox.
+•	Knappar:
+o	Starta ställtid → loggar starttid som setup.
+o	Starta produktion → loggar start av produktion.
+o	Avsluta produktion → loggar avslut + räknar produktionstid.
+o	Avvikelse → loggar särskild rad som avvikelse.
+•	Loggning:
+o	Händelser skrivs i:
+	time_tracking_log.txt (vanlig logg).
+	time_tracking_data.xlsx (strukturerad data).
+•	Pågående jobb:
+o	Visar vilken artikel + operation som körs + tid.
+
+
+________________________________________
+📂 Föreslagen modulstruktur
+carpe_alfa/
+│── main.py              # Startpunkten, laddar config, startar UI
+│── config.json          # Alla sökvägar och inställningar
+│
+└── app/
+    │── __init__.py
+    │── ui.py            # Layout och widgets
+    │── utils.py         # Hjälpfunktioner (tider, användarnamn, formatering)
+    │── file_handler.py  # Excel-hantering, backup, kopiering
+    │── status.py        # Kollar delad mapp, diskar, Navision-process
+    │── timers.py        # Sessionstider och Navision-tid
+    │── articles.py      # Laddar, skapar, sparar, backar upp artiklar
+    │── operations.py    # Laddar operationer
+________________________________________
+🔑 Viktiga krav
+1.	Layouten får inte ändras (måste matcha originalet visuellt).
+2.	Funktionerna (timers, status, filhantering, backup) ska fungera exakt som i originalet.
+3.	Konfiguration via config.json (inga hårdkodade sökvägar i koden).
+4.	Alla moduler ska vara kortare och mer läsbara än monolitkoden.
+________________________________________
+ 
+
+
+FÖRSLAG PÅ “config.json”
+{
+  "app": {
+    "version": "1.0",
+    "title": "Carpe Tempus",
+    "window_size": "1150x700"
+  },
+
+  "paths": {
+    "local_data_file": "time_tracking_data.xlsx",
+    "log_file": "time_tracking_log.txt",
+    "last_backups_file": "last_backups.txt",
+
+    "shared_folder": "Z:/CarpeShared",        
+    "backup_folder": "Z:/CarpeShared/Backups",
+
+    "articles_file": "Z:/CarpeShared/articles.xlsx",
+    "operations_file": "Z:/CarpeShared/operations.xlsx"
+  },
+
+  "backup": {
+    "time_data_daily": true,
+    "articles_daily": true,
+    "time_format": "%Y-%m-%d_%H-%M-%S",
+    "date_format": "%Y-%m-%d"
+  },
+
+  "status": {
+    "required_drives": ["X:", "Y:", "Z:"],
+    "shared_folder_check": true,
+    "navision_process_name": "navision.exe"
+  },
+
+  "ui": {
+    "font": "Arial",
+    "font_size": 10,
+    "status_indicator_size": 20
+  }
+}
