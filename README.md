@@ -92,10 +92,10 @@ tk.Button(input_frame, text="Uppdatera artiklar")
 3. Split-panel (vänster = artiklar, höger = operation + knappar + status)
 
 split_frame = tk.Frame(main_frame)
-# Vänster panel
+• Vänster panel
 article_frame = tk.Frame(split_frame)
 article_selection_tree = ttk.Treeview(article_selection_frame, columns=("Article",))
-# Höger panel
+• Höger panel
 right_frame = tk.Frame(split_frame)
 
 
